@@ -1,0 +1,48 @@
+<!doctype html> <!-- djuMap.html -->
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>대전대 지도</title>
+</head>
+<body>
+  <b>그림을 클릭하세요</b><br/>
+  <img src="https://usrcheat.github.io/Images/tour_map05.jpg" border=0 usemap="#area">
+  <map name="area">
+      <area target="" alt="남문" title="남문" href="http://usrcheat.github.io/20190404/djuMapFiles/01.html" coords="28,392,60,366,64,389,39,419,26,413" shape="poly">
+    <area target="" alt="기초과학관" title="기초과학관" href="http://usrcheat.github.io/20190404/djuMapFiles/02.html" coords="186,320,170,339,167,387,186,392,201,381,277,413,298,354,220,320" shape="poly">
+    <area target="" alt="공학관" title="공학관" href="http://usrcheat.github.io/20190404/djuMapFiles/03.html" coords="296,394,325,411,330,444,323,459,355,476,355,516,262,497,245,484,245,446" shape="poly">
+    <area target="" alt="응용과학관" title="응용과학관" href="http://usrcheat.github.io/20190404/djuMapFiles/04.html" coords="361,394,372,383,395,392,403,373,433,389,435,432,399,474,363,503,355,465,338,461,359,427" shape="poly">
+    <area target="" alt="지혜의길" title="지혜의길" href="http://usrcheat.github.io/20190404/djuMapFiles/06.html" coords="260,509,256,526,338,547,347,533,307,518" shape="poly">
+    <area target="" alt="학생회관" title="학생회관" href="http://usrcheat.github.io/20190404/djuMapFiles/07.html" coords="465,404,448,423,441,467,469,474,475,491,488,497,515,486,521,429" shape="poly">
+    <area target="" alt="선봉의광장" title="선봉의광장" href="http://usrcheat.github.io/20190404/djuMapFiles/08.html" coords="435,478,410,520,454,526,475,505" shape="poly">
+    <area target="" alt="C-Lab" title="C-Lab" href="http://usrcheat.github.io/20190404/djuMapFiles/09.html" coords="376,573,368,587,366,619,420,636,435,629,433,592,408,571" shape="poly">
+    <area target="" alt="창학관10" title="창학관10" href="http://usrcheat.github.io/20190404/djuMapFiles/10.html" coords="540,455,534,469,532,499,532,518,589,549,601,541,648,556,663,552,660,518,618,493,618,474,599,469,589,478" shape="poly">
+    <area target="" alt="테니스장" title="테니스장" href="http://usrcheat.github.io/20190404/djuMapFiles/11.html" coords="494,651,456,678,486,701,490,714,547,735,595,686,540,659,528,665" shape="poly">
+    <area target="" alt="MACC센터" title="MACC센터" href="http://usrcheat.github.io/20190404/djuMapFiles/12.html" coords="639,653,595,691,576,712,578,745,654,783,671,783,730,716,722,691,700,674,679,663" shape="poly">
+    <area target="" alt="렉처홀" title="렉처홀" href="http://usrcheat.github.io/20190404/djuMapFiles/13.html" coords="679,594,660,611,660,636,753,676,770,655,768,627,741,629,734,619,707,606,696,617" shape="poly">
+    <area target="" alt="정문" title="정문" href="http://usrcheat.github.io/20190404/djuMapFiles/14.html" coords="730,735,713,764,749,787,764,747" shape="poly">
+    <area target="" alt="드래곤볼" title="드래곤볼" href="http://usrcheat.github.io/20190404/djuMapFiles/15.html" coords="858,722,823,731,797,754,778,787,802,817,854,842,976,886,1038,882,1067,859,1082,836,1075,804,1040,785,915,735" shape="poly">
+    <area target="" alt="상징의광장" title="상징의광장" href="http://usrcheat.github.io/20190404/djuMapFiles/16.html" coords="917,606,880,638,922,665,947,629" shape="poly">
+    <area target="" alt="지산도서관" title="지산도서관" href="http://usrcheat.github.io/20190404/djuMapFiles/17.html" coords="816,455,795,480,770,507,768,556,755,571,877,629,943,566,928,554,924,516,901,499,892,488" shape="poly">
+    <area target="" alt="일신정" title="일신정" href="http://usrcheat.github.io/20190404/djuMapFiles/18.html" coords="688,429,700,455,711,432" shape="poly">
+    <area target="" alt="30주년기념관" title="30주년기념관" href="http://usrcheat.github.io/20190404/djuMapFiles/19.html" coords="871,347,848,371,842,394,825,406,812,411,808,425,823,440,825,453,884,478,939,486,953,465,949,448,972,448,964,434,964,415,943,396,917,392,907,413,892,396,886,366" shape="poly">
+    <area target="" alt="혜화문화관20" title="혜화문화관20" href="http://usrcheat.github.io/20190404/djuMapFiles/20.html" coords="1004,457,993,533,1008,537,1048,547,1105,556,1105,514,1094,480,1071,446,1038,442,1027,451" shape="poly">
+    <area target="" alt="물의광장" title="물의광장" href="http://usrcheat.github.io/20190404/djuMapFiles/21.html" coords="1103,482,1109,497,1139,495,1166,480,1156,469,1134,480" shape="poly">
+    <area target="" alt="제2생활관" title="제2생활관" href="http://usrcheat.github.io/20190404/djuMapFiles/22.html" coords="1172,432,1168,474,1210,484,1221,520,1373,518,1368,465,1330,459,1351,444,1345,402,1288,421,1259,434" shape="poly">
+    <area target="" alt="국제생활관" title="국제생활관" href="http://usrcheat.github.io/20190404/djuMapFiles/23.html" coords="1244,288,1206,314,1206,366,1219,381,1233,373,1240,392,1316,396,1314,343,1301,322,1278,326,1261,309" shape="poly">
+    <area target="" alt="인문사회관" title="인문사회관" href="http://usrcheat.github.io/20190404/djuMapFiles/24.html" coords="1042,307,995,368,993,425,1023,429,1044,404,1094,419,1107,410,1107,358,1067,337,1069,322" shape="poly">
+    <area target="" alt="국제화거리" title="국제화거리" href="http://usrcheat.github.io/20190404/djuMapFiles/25.html" coords="1132,358,1156,349,1217,389,1189,413,1149,394" shape="poly">
+    <area target="" alt="제1생활관" title="제1생활관" href="http://usrcheat.github.io/20190404/djuMapFiles/26.html" coords="983,227,970,248,968,293,1086,318,1092,265" shape="poly">
+    <area target="" alt="문무관" title="문무관" href="http://usrcheat.github.io/20190404/djuMapFiles/27.html" coords="993,168,979,206,979,225,1080,253,1084,221,1046,198,1040,183,1023,177,1008,183" shape="poly">
+    <area target="" alt="서문" title="서문" href="http://usrcheat.github.io/20190404/djuMapFiles/28.html" coords="907,162,922,158,936,166,920,175" shape="poly">
+    <area target="" alt="한의학관" title="한의학관" href="http://usrcheat.github.io/20190404/djuMapFiles/29.html" coords="821,211,816,225,776,297,778,337,806,349,842,299,880,305,892,293,888,251,867,240,858,229,842,227" shape="poly">
+    <area target="" alt="미래광장30" title="미래광장30" href="http://usrcheat.github.io/20190404/djuMapFiles/30.html" coords="810,40,829,25,976,114,955,131" shape="poly">
+    <area target="" alt="산학협력관" title="산학협력관" href="http://usrcheat.github.io/20190404/djuMapFiles/31.html" coords="797,114,787,131,787,156,861,166,877,145,877,128,858,120,825,109" shape="poly">
+    <area target="" alt="융합과학관" title="융합과학관" href="http://usrcheat.github.io/20190404/djuMapFiles/32.html" coords="871,217,871,236,892,246,899,282,911,261,955,240,964,196,913,187" shape="poly">
+    <area target="" alt="제4생활관" title="제4생활관" href="http://usrcheat.github.io/20190404/djuMapFiles/33.html" coords="1145,274,1145,331,1187,314,1191,244,1149,261" shape="poly">
+    <area target="" alt="레지던셜칼리지" title="레지던셜칼리지" href="http://usrcheat.github.io/20190404/djuMapFiles/34.html" coords="130,539,132,518,108,514,102,568,146,587,182,608,197,577,165,543,182,531,214,518,231,533,245,545,271,541,340,556,340,575,315,585,267,621,210,604,151,545,182,562" shape="poly">
+    <area target="" alt="공학실험관" title="공학실험관" href="http://usrcheat.github.io/20190404/djuMapFiles/05.html" coords="302,368,292,385,328,406,334,434,349,421,349,389" shape="poly">
+</map>
+</body>
+</html>
