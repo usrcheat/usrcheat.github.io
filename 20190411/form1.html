@@ -1,0 +1,40 @@
+<!doctype html>
+<!-- form1.html -->
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>폼 실습</title>
+  </head>
+
+  <body>
+    <section>
+      <form action="" method="post">
+        <fieldset>
+          <legend>자동차 옵션</legend>
+          <label for="safety">안전장치</label>
+          <select id="safety" name="safety">
+						<option value="에어백">에어백</option>
+						<option value="후방감지센서">후방감지센서</option>
+						<option value="선루프">선루프</option>
+					</select>
+          <label for="comfort">편의장치</label>
+          <select id="comfort" name="comfort">
+						<option value="디스플레이">디스플레이</option>
+						<option value="룸미러">룸미러</option>
+						<option value="파워핸들">파워핸들</option>
+            <option value="유아시트">유아시트</option>
+						<option value="히팅핸들" selected>히팅핸들</option>
+					</select>
+          <label for="light">라이트</label>
+          <select id="light" name="light" multiple>
+            <option value="데이라이트">데이라이트</option>
+            <option value="헤드램프">헤드램프</option>
+            <option value="오토라이트">오토라이트</option>
+          </select>
+          <button type="buy">구매</button>
+        </fieldset>
+      </form>
+    </section>
+  </body>
+</html>
