@@ -3,9 +3,7 @@
 <title>Dynamic Select Form Sample</title> 
 <meta http-equiv="content-type" content="text/html; charset=euc-kr"> 
 <script language="javascript"> 
-<!-- 
 
-/* 첫번째 동적 셀렉트 변수 */
 		function Category(value) { 
 		  this.value = value; 
 		  this.length = 0; 
@@ -102,17 +100,12 @@
 
 
 function initForm(form) { 
-  /* 첫번째 동적 셀렉트 변수 설정 */
   form.subject.length = category.length; 
   for (i = 0; i < category.length; i++) 
     form.subject[i].text = category[i].value; 
   form.subject.selectedIndex = 0; 
   form.contents.selectedIndex = 0;
-  /* 첫번째 동적 셀렉트 변수 설정 끝 */
-
 } 
-
-/* 첫번째 동적 셀렉트 구현 */
 function change_subject(form) { 
   var i = form.subject.selectedIndex; 
   form.contents.length = category[i].length; 
@@ -121,7 +114,6 @@ function change_subject(form) {
   form.contents.selectedIndex = 0; 
   change_contents(form); 
 } 
-
 function change_contents(form) { 
   var i = form.subject.selectedIndex 
   var j = form.contents.selectedIndex; 
@@ -130,7 +122,6 @@ function change_contents(form) {
     form.components[k].text = category[i][j][k].value; 
   form.components.selectedIndex = 0; 
 } 
-
 function change_components(form) { 
   var i = form.subject.selectedIndex 
   var j = form.contents.selectedIndex;
@@ -140,7 +131,6 @@ function change_components(form) {
     form.view[l].text = category[i][j][k][l].value; 
   form.view.selectedIndex = 0; 
 }
-/* 첫번째 동적 셀렉트 구현 끝*/
 
 </script> 
 </head> 
@@ -149,13 +139,13 @@ function change_components(form) {
 
 <h1>3단 동적 셀렉트 박스 예제</h1> 
 
-<form name="form" METHOD=POST ACTION="http://www.baroyogi.com/test_reg.php" > 
+<form name="form" METHOD=POST ACTION="" > 
 <select name="subject" onChange="change_subject(this.form)"></select> 
 <select name="contents" onChange="change_contents(this.form)"></select> 
 <select name="components" onChange="change_components(this.form)"></select> 
 <br/>
 
- <INPUT type=submit value="다음" name=Submit>
+ <INPUT type=submit value="" name=Submit>
  </INPUT>
  
 </form> 
